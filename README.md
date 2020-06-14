@@ -16,7 +16,7 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
 # CVPR Paper Keywords statistics
 - Most of the top keywords were maintained
    - Detection, 3d, object, video, segmentation, adversarial …
-   - Read the [blog]() for details.
+   - Read the [blog](https://zhuanlan.zhihu.com/p/148270603) for details.
 
 # ICML/ICLR/NIPS Paper word frequency visualization
 
