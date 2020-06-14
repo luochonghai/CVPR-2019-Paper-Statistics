@@ -5,11 +5,11 @@ The code can also be applied to **ECCV/ICCV/NIPS/ICML/ICLR**.
 Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
 
 <p align="center">
-  <img width="600" src="/2020_Conf/cvpr20_wc.png">
+  <img width="1000" src="/2020_Conf/cvpr20_wc.png">
 </p>
 
 <p align="center">
-  <img width="600" src="/2020_Conf/cvpr20_kw.png">
+  <img width="1000" src="/2020_Conf/cvpr20_kw.png">
 </p>
 
 
@@ -21,19 +21,19 @@ Inspired by [`CVPR-2019-Paper-Statistics`](https://github.com/hoya012/CVPR-2019-
 # ICML/ICLR/NIPS Paper word frequency visualization
 
 <p align="center">
-  <img width="600" src="/2020_Conf/icml20_wc.png">
+  <img width="1000" src="/2020_Conf/icml20_wc.png">
 </p>
 
 <p align="center">
-  <img width="600" src="/2020_Conf/icml20_kw.png">
+  <img width="1000" src="/2020_Conf/icml20_kw.png">
 </p>
 
 <p align="center">
-  <img width="600" src="/2020_Conf/iclr20_wc.png">
+  <img width="1000" src="/2020_Conf/iclr20_wc.png">
 </p>
 
 <p align="center">
-  <img width="600" src="/2020_Conf/iclr20_kw.png">
+  <img width="1000" src="/2020_Conf/iclr20_kw.png">
 </p>
 
 ## Prerequisites
